@@ -1,0 +1,6 @@
+# robots.txt para SOLUNEXO
+User-agent: *
+Allow: /
+
+# Sitemap para indexación en Google
+Sitemap: https://solunexo.com/sitemap.xml
