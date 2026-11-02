@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap para indexación en Google
-Sitemap: https://solunexo.vercel.app/sitemap.xml
+Sitemap: https://solunexo-flame.vercel.app/sitemap.xml
